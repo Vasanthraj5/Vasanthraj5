@@ -54,7 +54,7 @@ A web application for uploading, downloading, and managing academic notes.
 
 - 📧 Email: **vasanthrajraj71@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/vasanthraj-j/**
-- 🐙 GitHub: **https://github.com/YOUR_USERNAME**
+- 🐙 GitHub: **https://github.com/Vasanthraj5**
 
 ---
 
