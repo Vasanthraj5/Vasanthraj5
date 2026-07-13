@@ -29,8 +29,6 @@ A passionate Computer Science and Engineering student with an interest in Softwa
 
 ## 📂 Featured Projects
 
-### ❤️ Love Letter - Unity Mobile Game
-A Unity-powered mobile card game featuring intelligent AI, smooth animations, responsive UI, immersive gameplay, and complete implementation of official Love Letter game mechanics.
 
 ### 📁 Peer-to-Peer File Sharing
 File transfer application using LAN with secure and fast communication.
