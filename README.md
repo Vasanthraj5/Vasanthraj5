@@ -1,16 +1,39 @@
-## Hi there 👋
+# J. Vasanthraj
 
-<!--
-**Vasanthraj5/Vasanthraj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objective
 
-Here are some ideas to get you started:
+A motivated Computer Science and Engineering student seeking to apply programming knowledge, problem-solving abilities, database management, and software development skills through real-world projects. This repository showcases my academic and personal projects developed during my undergraduate studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Java
+- C
+- C++
+- HTML
+- CSS
+- MySQL
+- Unity
+- C#
+- Git & GitHub
+
+## Projects
+
+- Love Letter Unity Game
+- Peer-to-Peer File Sharing Using LAN
+- Live Video Streaming Over LAN
+- College Notes Sharing Platform
+
+## Certifications
+
+- NPTEL Elite – Database Management System (IIT Kharagpur)
+- IBM – Starting with Artificial Intelligence
+- MSME – Fire Safety Training Program
+- IEEE Madras Section – Certificate of Participation
+
+## Author
+
+**J. Vasanthraj**
+
+- 📧 Email: vasanthrajraj71@gmail.com
+- 📱 Phone: +91 8098527620
